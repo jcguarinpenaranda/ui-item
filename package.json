@@ -1,0 +1,27 @@
+{
+  "name": "ui-item",
+  "version": "1.0.0",
+  "description": "Base class for any widget",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jcguarinpenaranda/ui-item.git"
+  },
+  "keywords": [
+    "widget",
+    "ui",
+    "item"
+  ],
+  "author": "Juan Camilo Guarin P",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jcguarinpenaranda/ui-item/issues"
+  },
+  "homepage": "https://github.com/jcguarinpenaranda/ui-item#readme"
+}
